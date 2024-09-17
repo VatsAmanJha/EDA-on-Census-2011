@@ -1,0 +1,96 @@
+/* Example CSS styles for KPIs */
+.kpi-box {
+    flex: 1;
+    min-width: 200px;
+    max-width: 300px;
+    padding: 10px;
+    border-radius: 8px;
+    text-align: center;
+    color: #333;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.kpi-total-population {
+    background-color: #e3f2fd; /* Light blue */
+    border: 2px solid #2196f3; /* Blue border */
+}
+
+.kpi-total-male-population {
+    background-color: #fff3e0; /* Light orange */
+    border: 2px solid #ff9800; /* Orange border */
+}
+
+.kpi-total-female-population {
+    background-color: #fce4ec; /* Light pink */
+    border: 2px solid #e91e63; /* Pink border */
+}
+
+.kpi-total-literate-population {
+    background-color: #e8f5e9; /* Light green */
+    border: 2px solid #4caf50; /* Green border */
+}
+
+.kpi-total-workers {
+    background-color: #fffde7; /* Light yellow */
+    border: 2px solid #ffeb3b; /* Yellow border */
+}
+
+.kpi-total-hindus {
+    background-color: #fbe9e7; /* Light red */
+    border: 2px solid #e64a19; /* Red border */
+}
+
+.kpi-total-muslims {
+    background-color: #e3f2fd; /* Light blue */
+    border: 2px solid #2196f3; /* Blue border */
+}
+
+.kpi-total-christians {
+    background-color: #e8f5e9; /* Light green */
+    border: 2px solid #4caf50; /* Green border */
+}
+
+.kpi-total-sikhs {
+    background-color: #fce4ec; /* Light pink */
+    border: 2px solid #e91e63; /* Pink border */
+}
+
+.kpi-total-buddhists {
+    background-color: #fff3e0; /* Light orange */
+    border: 2px solid #ff9800; /* Orange border */
+}
+
+.kpi-total-jains {
+    background-color: #fffde7; /* Light yellow */
+    border: 2px solid #ffeb3b; /* Yellow border */
+}
+
+.kpi-total-secondary-education {
+    background-color: #e8f5e9; /* Light green */
+    border: 2px solid #4caf50; /* Green border */
+}
+
+.kpi-total-higher-education {
+    background-color: #e3f2fd; /* Light blue */
+    border: 2px solid #2196f3; /* Blue border */
+}
+
+.kpi-total-graduate-education {
+    background-color: #fbe9e7; /* Light red */
+    border: 2px solid #e64a19; /* Red border */
+}
+
+.kpi-total-age-group-0-29 {
+    background-color: #fce4ec; /* Light pink */
+    border: 2px solid #e91e63; /* Pink border */
+}
+
+.kpi-total-age-group-30-49 {
+    background-color: #fff3e0; /* Light orange */
+    border: 2px solid #ff9800; /* Orange border */
+}
+
+.kpi-total-age-group-50 {
+    background-color: #fffde7; /* Light yellow */
+    border: 2px solid #ffeb3b; /* Yellow border */
+}
